@@ -1,5 +1,5 @@
 ilk web sayfam için deneme projesi
 
-![Images](images/Project.png)
+![Images](images/web.png)
 
 [link bilgisi](http://github.com//oznurceyhan)
