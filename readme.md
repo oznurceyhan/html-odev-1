@@ -1,5 +1,4 @@
-ilk web sayfam için deneme projesi
+ilk web sayfam için deneme projesi  html ödev 2
 
-![Images](images/web.png)
 
 [link bilgisi](http://github.com//oznurceyhan)
